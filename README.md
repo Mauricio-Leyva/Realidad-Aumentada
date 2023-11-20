@@ -1,13 +1,12 @@
 # ImmerseXperience
 
-# Tracking de Superficie Interactivo: 
-Al iniciar la experiencia en AR, ImmerseXperience utiliza un avanzado sistema de tracking para mapear y detectar superficies en tu entorno. Esto permite que puedas interactuar y colocar objetos virtuales de forma precisa y fluida.
-
-# Añadir Objetos con un Clic: 
-Una vez que el sistema de tracking detecta una superficie, simplemente haz clic en el área marcada para agregar flores virtuales. Cada clic añade una flor al entorno, permitiéndote crear y personalizar tu propia experiencia AR.
+## Características Principales
+- **Tracking de Superficie Interactivo:** Al iniciar la experiencia en AR, ImmerseXperience utiliza un avanzado sistema de tracking para mapear y detectar superficies en tu entorno. Esto permite que puedas interactuar y colocar objetos virtuales de forma precisa y fluida.
+  
+- **Añadir Objetos con un Clic:** Una vez que el sistema de tracking detecta una superficie, simplemente haz clic en el área marcada para agregar flores virtuales. Cada clic añade una flor al entorno, permitiéndote crear y personalizar tu propia experiencia AR.
 
 ## Instalación
-No se requiere instalación adicional.
+No se requiere instalación adicional. Si experimentas problemas al ejecutar la experiencia en la web, puedes descargar este archivo HTML y ejecutarlo en un servidor local. Simplemente configura un servidor local para su uso.
 
 ## Uso
 - Abre el archivo `index.html` en un navegador web que admita WebXR.
